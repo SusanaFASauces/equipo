@@ -1,3 +1,3 @@
 # equipo
-Master: SusanaFASauces
+Master: SusanaFASauces \n
 Desarrolladores: SoniaALLSauces
